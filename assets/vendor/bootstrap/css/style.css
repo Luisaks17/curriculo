@@ -4,7 +4,7 @@
     background-position: top right;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 70vh;
+    height: 65vh;
 }
 
 .perfil {
@@ -13,18 +13,17 @@
 }
 
 .myName {
-    font-family: 'Dosis' , sans-serif;
+    font-family: 'Lora' , serif;
     font-size: 4rem;
-    color:#fff;
+    color:#000000;
     font-weight: 600;
 }
 
 .Hab {
     font-family: 'Lora', serif;
     font-size: 2rem;
-    color: rgb(85, 1, 85);
+    color: rgb(2, 28, 85);
     font-weight: 600;
-    background-color:  rgb(240, 150, 240);
 }
 
 .habilidades {
@@ -38,9 +37,8 @@
 .Hist {
     font-family: 'Lora', serif;
     font-size: 2rem;
-    color: rgb(85, 1, 85);
+    color: rgb(2, 28, 85);
     font-weight: 600;
-    background-color: rgb(240, 150, 240);
 }
 
 .habilidades {
@@ -54,6 +52,9 @@
     color: aqua;
 }
 
+.x {
+    font-size: 1.5rem;
+}
 
 @media (max-width: 576px) { 
     .banner {
